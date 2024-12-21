@@ -1,0 +1,11 @@
+ID,Rank,University,Location,Latitude,Longitude,Icon_Path,Info,URL-department,URL-Application1,URL-Course-description,URL-Faculty&research
+1,1,Kings Dominion,Doswell(VA),37.840,-77.445,icons/kdominion.png,Sister Park of Kings Dominion Owned by Six Flags,https://www.kingsdominion.com, https://en.wikipedia.org/wiki/Kings_Dominion
+2,2,Hershey Park,Hershey(PA),40.1717,-76.3925,icons/hpark.png,Owned by Hershey Entertainment,https://www.hersheypark.com, https://en.wikipedia.org/wiki/Hersheypark
+3,3,Cedar Point,Sandusky(OH),41.2841,-82.404408,icons/cpoint.png,Owned by Six Flags,https://www.cedarpoint.com, https://en.wikipedia.org/wiki/Cedar_Point
+4,4,Kings Island,Mason(OH),39.204123,-84.160699,icons/kisland.png,Also owned by Six Flags,https://www.visitkingsisland.com, https://en.wikipedia.org/wiki/Kings_Island
+5,5,DollyWood,Pigeon Forge(TN),35.4821,-83.3144,icons/dwood.png,No info yet :O,https://www.dollywood.com, https://en.wikipedia.org/wiki/Dollywood
+6,6,Silver Dollar City,Branson(MO),36.6671,-93.3389,icons/sdcity.png,No info yet :O,https://www.silverdollarcity.com/theme-park, https://en.wikipedia.org/wiki/Silver_Dollar_City
+7,7,Six Flags Great Adventure,Jackson(NJ),40.815,-74.2624,icons/6FlagGadv.png,No info yet :O,https://www.sixflags.com/greatadventure, https://en.wikipedia.org/wiki/Six_Flags_Great_Adventure
+8,8,Six Flags Over Texas,Arlington(TX),32.452052,-97.41280,icons/6FlagOvTX.png,No info yet :O,https://www.sixflags.com/overtexas, https://en.wikipedia.org/wiki/Six_Flags_Over_Texas
+9,9,Busch Gardens Williamsburg,Williamsburg(VA),37.145,-76.3840,icons/BGW.png,My home park <3,https://buschgardens.com/williamsburg/, https://en.wikipedia.org/wiki/Busch_Gardens_Williamsburg
+10,10,Busch Gardens Tampa Bay,Tampa(FL),28.215,-82.2521,icons/BGT.png,Older version of Busch Gardens Williamsburg,https://buschgardens.com/tampa/, https://en.wikipedia.org/wiki/Busch_Gardens_Tampa_Bay
